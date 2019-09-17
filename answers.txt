@@ -1,0 +1,4 @@
+1. What is a gitignore file and what sh ould it include for a Java pro ject?
+2. What do es fast-forward in Git mean?
+3. Why should you have d ifferent branches?
+4. In a pro ject how many remote Git rep ositories do you usually have?
